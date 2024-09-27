@@ -1,5 +1,5 @@
 import React from 'react'
-import ima from './assets/ima.jpg'
+import ima from './assets/Ima.jpg'
 import {useTypewriter, Cursor } from 'react-simple-typewriter'
 
 const Intro = () => {
