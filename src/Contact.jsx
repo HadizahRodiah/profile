@@ -36,7 +36,7 @@ return(
           <p className='font-bold text-black'>Connect with me let's collaborate and Work together on your next project</p>
       <div className='flex flex-row md:flex-row items-center md:space-x-12 p-20  justify-between' >
           <div className='mb-4 mt-8 font-bold tex-black flex flex-col'>
-          <a href="hadizahrodiah@gmail.com" className='inline-block  text-yellow-300 mr-2 hover:w-10'><img src={Soc2} className='w-12 h-15 bg-white rounded-full'/></a>
+          <a href="mailto:hadizahrodiah@gmail.com" className='inline-block  text-yellow-300 mr-2 hover:w-10'><img src={Soc2} className='w-12 h-15 bg-white rounded-full'/></a>
           <p className="hidden md:inline">Email</p>
           </div>
           <div className='mb-4 mt-8 font-bold flex flex-col'>
@@ -44,7 +44,7 @@ return(
           <p className='mr-2 hidden md:inline'>WhatsAPP</p>
           </div>
           <div className='mb-4 mt-8 font-bold flex flex-col'>
-          <a href="https://www.linkedin.com/in/rodiah-hadizah" className='inline-block text-white mr-2  hover:w-10'><img src={Soc1} className='w-12 h-15 rounded-full '/> </a>
+          <a href="https://bit.ly/4dbrkDV" className='inline-block text-white mr-2  hover:w-10'><img src={Soc1} className='w-12 h-15 rounded-full '/> </a>
           <p className='mr-2 hidden md:inline'>Linkedin</p>
           </div>
           <div className='mb-4 mt-8 font-bold flex flex-col'>
