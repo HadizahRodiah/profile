@@ -17,7 +17,7 @@ const Project = () => {
             id:2,
             title:"Simple  Login Form(No Functionality)",
             description:"this is a basic login form designed with a clean and minimalistic layout.it includes fields for username and password input along with a submit button.It is for demonstrating front-end design concepts or as a starting point for integrating authentication in future.ideal for practice in creating user-interface",
-            Technology:" ASP.Net Core, Entity FrameworkCore, ASP.Net Core Identity, Azure Web Apps,Postgres (Azure Database for Postgres), SQLServer, Microsoft CSP SDK (C#)",
+            Technology:"react,html,tailwindcss,css",
             Access:"https://psychic-bassoon.onrender.com"
 
         },
@@ -63,7 +63,7 @@ const Project = () => {
      </p>
      <div className='mt-5'>
      <a href={service.Access} className='bg-gradient-to-r mx-5 my-5 from-slate-900 mt-10 
-                    to-yellow-500 text-black  md:inline hover:text-white transform px-4 py-2 rounded-full'>
+                    to-yellow-500  text-center ml-20 text-black  md:inline hover:text-white transform px-4 py-2 rounded-full'>
                     Access
                     </a>
                     <h4>click on Access to check it out</h4>
