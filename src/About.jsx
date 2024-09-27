@@ -64,7 +64,7 @@ const About = () => {
                 </div>
            </div>
             <div className='flex flex-col m-10  md:flex-row items-center md:space-x-12'>
-            <div className='box p-5 shadow-lg ' data-aos="flip-down">
+            <div className='box p-5 shadow-lg '>
                <h2 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-slate-800 to-yellow-400'>
                 Additional Skill</h2>
                <ul className='list-disc text-left list-outside'>
@@ -74,7 +74,7 @@ const About = () => {
                <li>python</li>
                </ul>
             </div>
-            <div className='box p-5 shadow-lg ' data-aos="flip-up">
+            <div className='box p-5 shadow-lg ' >
                <h2 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-slate-800 to-yellow-400'>
                 Social Skill</h2>
                 <ul className='list-disc text-left list-outside'>
@@ -87,7 +87,7 @@ const About = () => {
                 </ul>
             </div>
             
-            <div className='box p-5 shadow-lg' data-aos="flip-down">
+            <div className='box p-5 shadow-lg' >
                <h2 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-slate-400 to-yellow-800'>
                 Languages</h2>
                <ul className='list-disc text-left list-outside'>
